@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "https://AleksandrEnin163.github.io/CV-Blog_Routing/",
+  "homepage": "https://AleksandrEnin163.github.io/RegistrationForm_Yandex/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
