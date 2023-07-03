@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CV-Blog_Routing/static/css/main.eed06540.css",
-    "main.js": "/CV-Blog_Routing/static/js/main.a64db54c.js",
-    "index.html": "/CV-Blog_Routing/index.html",
-    "main.eed06540.css.map": "/CV-Blog_Routing/static/css/main.eed06540.css.map",
-    "main.a64db54c.js.map": "/CV-Blog_Routing/static/js/main.a64db54c.js.map"
+    "main.css": "/RegistrationForm_Yandex/static/css/main.eed06540.css",
+    "main.js": "/RegistrationForm_Yandex/static/js/main.a64db54c.js",
+    "index.html": "/RegistrationForm_Yandex/index.html",
+    "main.eed06540.css.map": "/RegistrationForm_Yandex/static/css/main.eed06540.css.map",
+    "main.a64db54c.js.map": "/RegistrationForm_Yandex/static/js/main.a64db54c.js.map"
   },
   "entrypoints": [
     "static/css/main.eed06540.css",
