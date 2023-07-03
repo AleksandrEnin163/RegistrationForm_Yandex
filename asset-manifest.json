@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CV-Blog_Routing/static/css/main.eed06540.css",
+    "main.js": "/CV-Blog_Routing/static/js/main.a64db54c.js",
+    "index.html": "/CV-Blog_Routing/index.html",
+    "main.eed06540.css.map": "/CV-Blog_Routing/static/css/main.eed06540.css.map",
+    "main.a64db54c.js.map": "/CV-Blog_Routing/static/js/main.a64db54c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed06540.css",
+    "static/js/main.a64db54c.js"
+  ]
+}
